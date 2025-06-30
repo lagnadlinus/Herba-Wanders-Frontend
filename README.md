@@ -150,6 +150,3 @@ Special thanks to
 - Nataliya Vaitkevich for the banner pic. (https://www.pexels.com/photo/flat-lay-photo-of-alternative-medicines-7615470/)
 - Kaboom Pics for banner2. (https://www.pexels.com/photo/edible-flowers-and-spices-on-wooden-board-4871216/)
 - Kaboom Pics for banner3. (https://www.pexels.com/photo/composition-of-spoonfuls-with-various-spices-4199098/)
-
-Description: 
-The repository "herba_wanders_frontend" is a React-based frontend project for the Herba Wanders E-commerce platform, dedicated to selling natural wellness products like Shilajit, Moringa, Ashwagandha, and others. It utilizes TypeScript and Tailwind CSS for a responsive and scalable design. The app allows users to browse and purchase products.
