@@ -74,9 +74,20 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        {/* Copyright Section */}
-        <div className="bg-[#1a1a1a] py-4 mt-8 text-center">
+        {/* Copyright & Credits Section */}
+        <div className="bg-[#1a1a1a] py-4 mt-8 text-center space-y-1">
           <p className="text-sm">&copy; 2024 Herba Wanders. All Rights Reserved.</p>
+          <p className="text-sm">
+            Website created by{" "}
+            <a
+              href="https://groundstackservices.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-green-500 hover:underline"
+            >
+              Ground Stack Services
+            </a>
+          </p>
         </div>
       </div>
     </footer>
