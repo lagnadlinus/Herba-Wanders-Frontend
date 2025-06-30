@@ -22,6 +22,8 @@ This project is an E-commerce website developed for Herba Wanders Private Limite
 
 ## Project Structure
 
+<pre> ```
+
 frontend/                        # React app root folder
 ├── node_modules/                # Node.js dependencies (auto-generated)
 ├── public/                      # Public assets (served as-is, no bundling)
@@ -88,6 +90,8 @@ frontend/                        # React app root folder
 ├── package.json                # Project scripts & dependencies
 ├── package-lock.json           # Exact dependency versions
 └── README.md                   # Project description & usage
+
+``` </pre>
 
 
 
