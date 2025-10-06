@@ -80,12 +80,12 @@ const Footer: React.FC = () => {
           <p className="text-sm">
             Website created by{" "}
             <a
-              href="https://groundstackservices.com"
+              href="https://www.nilarcvision.com.au"
               target="_blank"
               rel="noopener noreferrer"
               className="text-green-500 hover:underline"
             >
-              Ground Stack Services
+              Nil Arc Vision
             </a>
           </p>
         </div>
